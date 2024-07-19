@@ -1,0 +1,6 @@
+FRONTEND: REACT
+ir a carpeta raiz del proyecto
+npm init -y
+npm install
+npm install react-scripts
+npm start
